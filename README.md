@@ -5,6 +5,11 @@ This project demonstrates the end-to-end deployment of Dockerized applications o
 
 The project highlights how containerized applications can be reliably built, pushed, and deployed with minimal manual intervention while ensuring scalability, high availability, and zero-downtime deployments.
 
+Presentation Link
+
+https://drive.google.com/file/d/19nRvvg_PSg9rkziqLl4KBDoqDe4_SpiV/view?usp=sharing
+
+
 🎯 Objectives
 
 Understand and validate container deployment on AWS ECS
