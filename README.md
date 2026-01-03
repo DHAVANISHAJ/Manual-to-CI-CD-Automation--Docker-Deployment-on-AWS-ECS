@@ -7,7 +7,7 @@ The project highlights how containerized applications can be reliably built, pus
 
 Presentation Link
 
-https://drive.google.com/drive/folders/1QY62HKwsK-bm_K4IJ5ICZOTCWpVLpBzg
+https://drive.google.com/file/d/17g8Szt_tfPP_7V0Xd2IinjU1y4obWAX1/view?usp=sharing
 
 
 🎯 Objectives
